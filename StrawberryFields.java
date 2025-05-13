@@ -55,13 +55,13 @@ public class StrawberryFields {
      * Inside the function:
      * 1. print chorus 
      */
-   public static void playChorus() {
-       System.out.println("Chorus:");
-       System.out.println("Let me take you down");
-       System.out.println("'Cause I'm going to strawberry fields");
-       System.out.println("Nothing is real");
-       System.out.println("And nothing to get hung about");
-       System.out.println("Strawberry fields forever");
+   	public static void playChorus() {
+       				System.out.println("Chorus:");
+      				System.out.println("Let me take you down");
+       				System.out.println("'Cause I'm going to strawberry fields");
+       				System.out.println("Nothing is real");
+       				System.out.println("And nothing to get hung about");
+       				System.out.println("Strawberry fields forever");
    }
 
 }
