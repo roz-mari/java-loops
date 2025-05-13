@@ -10,10 +10,10 @@ public class ForLoops {
 
         //Escribe un bucle for que imprima "¡Hola FemCoders!" 5 veces
     System.out.println("Message printed 5 times:");
-        for (int i = 0; i <= 5; i++) {
-            System.out.println("Hello FemCoders!");
+    for (int i = 0; i <= 5; i++) {
+        System.out.println("Hello FemCoders!");
         }
-        System.out.println();
+    System.out.println();
 
         //Escribe un bucle for que imprima la tabla de multiplicar del número 7 (del 1 al 10)
     System.out.println("Multiplication table of 7:");
