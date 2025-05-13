@@ -12,7 +12,7 @@ public class ForLoops {
     System.out.println("Message printed 5 times:");
     for (int i = 0; i <= 5; i++) {
         System.out.println("Hello FemCoders!");
-        }
+    }
     System.out.println();
 
         //Escribe un bucle for que imprima la tabla de multiplicar del número 7 (del 1 al 10)
@@ -41,7 +41,7 @@ public class ForLoops {
         if (i % 8 == 0) {
             System.out.println("The smallest number greater than 20 that is divisible by 8 is " + i);
         break;
-    }
+        }
     }
     System.out.println();
         //Escribe un bucle for que imprima números pares del 1 al 20 saltando los números impares usando 'continue'
